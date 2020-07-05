@@ -1,0 +1,9 @@
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  background: seagreen;
+  color: #fff;
+}
+.nav .item {
+  padding: 10px 20px;
+}

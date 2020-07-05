@@ -1,0 +1,3 @@
+<button bindtouchstart="onStart" bindtouchend="onStap">按住说话</button>
+
+<van-toast id="van-toast" />
